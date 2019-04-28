@@ -9,3 +9,6 @@ https://arxiv.org/abs/1807.04667
 	booktitle=" MLMH 2018: 2018 KDD Workshop on Machine Learning for Medicine and Healthcare",
 	year = 2018,
 	}
+
+
+Please use my forked version of modAL for this: https://github.com/rymc/modAL
